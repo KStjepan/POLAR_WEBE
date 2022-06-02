@@ -1,0 +1,10 @@
+streamlit
+plotly
+pandas
+numpy
+sklearn
+tqdm
+gsheetsdb
+nltk
+colorlover
+seaborn
