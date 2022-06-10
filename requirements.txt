@@ -1,0 +1,15 @@
+gensim==3.8.3
+numpy
+sklearn
+tqdm
+nltk
+pandas
+plotly
+ipywidgets
+IPython
+torch
+scipy
+colorlover
+seaborn
+matplotlib
+openpyxl
